@@ -13,11 +13,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Marketing - SecondBrain.base",
+                "file": "Master Table.base",
                 "viewName": "Table"
               },
               "icon": "lucide-table",
-              "title": "Marketing - SecondBrain"
+              "title": "Master Table"
             }
           }
         ],
@@ -190,11 +190,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "073f8debcb9315ff",
+  "active": "f02c59838476f2d2",
   "lastOpenFiles": [
+    "Research/The Stack Club.md",
+    "Research/Cumin Co.md",
+    "Research",
+    "Dentsu.md",
+    "Companies/Dentsu.md",
+    "Master Table.base",
+    "Companies/Dentsu/WebChutney.md",
+    "Companies/Dentsu",
+    "People/Yash Vashishth.md",
+    "Marketing - SecondBrain.base",
+    "Untitled",
+    "Companies/Idiotic Media.md",
+    "Companies/Publicis Groupe.md",
     "Companies/WPP.md",
     "Companies/Ogilvy.md",
-    "Marketing - SecondBrain.base",
     "WPP/WPP Media (GroupM).md",
     "WPP",
     "WPP Media (GroupM).md",
@@ -202,7 +214,6 @@
     "Companies/GroupM/WPP Media (GroupM).md",
     "Companies/Creative Fuel.md",
     "Untitled.canvas",
-    "Untitled.base",
     "Companies/SoCheers.md",
     "Companies/GroupM",
     "Companies/WLDD.md",
@@ -215,21 +226,11 @@
     "People/Manjary Saxena.md",
     "People/Nikhil.md",
     "People/Padam Sandhu.md",
-    "People/Raghav Sharma.md",
-    "People/Rahul Patel.md",
-    "People/Rishabh Bhardwaj.md",
-    "People/Shrikanth.md",
-    "People/Yajinn Sharma.md",
     "logo-2.png",
     "logo-2 1.png",
-    "Companies/SocioHub.md",
-    "Untitled.md",
-    "Untitled",
     "Brands/Reliance",
     "Brands",
     "Companies",
-    "People",
-    "Untitled 2.base",
     "Social Media Marketing/Untitled.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",

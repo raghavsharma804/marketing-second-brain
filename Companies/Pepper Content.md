@@ -1,4 +1,4 @@
-Founder
+# Founders
 - [[Anirudh Singhla]]
 - [[Rishabh Shekhar]]
 - 
