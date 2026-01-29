@@ -11,10 +11,13 @@
             "id": "f02c59838476f2d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "bases",
+              "state": {
+                "file": "Marketing - SecondBrain.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Marketing - SecondBrain"
             }
           }
         ],
@@ -91,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Marketing - SecondBrain.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Marketing - SecondBrain"
             }
           },
           {
@@ -156,6 +160,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "285ebf98e0a89984",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
         "currentTab": 4
@@ -178,20 +192,24 @@
   },
   "active": "073f8debcb9315ff",
   "lastOpenFiles": [
+    "Companies/WPP.md",
+    "Companies/Ogilvy.md",
+    "Marketing - SecondBrain.base",
+    "WPP/WPP Media (GroupM).md",
+    "WPP",
+    "WPP Media (GroupM).md",
+    "Companies/WPP Media (GroupM).md",
+    "Companies/GroupM/WPP Media (GroupM).md",
+    "Companies/Creative Fuel.md",
     "Untitled.canvas",
     "Untitled.base",
-    "Marketing - SecondBrain.base",
-    "Companies/GroupM/WPP Media (GroupM).md",
-    "Companies/WPP.md",
     "Companies/SoCheers.md",
-    "Companies/Ogilvy.md",
     "Companies/GroupM",
     "Companies/WLDD.md",
     "Companies/One Hand Clap.md",
     "Companies/Stonk Studios.md",
     "Companies/YounGun.md",
     "Companies/Common House.md",
-    "Companies/Creative Fuel.md",
     "People/Arihant Jain.md",
     "People/Chirag Alawadhi.md",
     "People/Manjary Saxena.md",
@@ -206,16 +224,12 @@
     "logo-2 1.png",
     "Companies/SocioHub.md",
     "Untitled.md",
-    "Brands/Reliance/Vibrant.md",
-    "Companies/Filmy Curry.md",
-    "Companies/Marketize.md",
     "Untitled",
     "Brands/Reliance",
     "Brands",
     "Companies",
     "People",
     "Untitled 2.base",
-    "Untitled 1.base",
     "Social Media Marketing/Untitled.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",

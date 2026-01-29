@@ -3,7 +3,6 @@ Wire and Plastic Products
 - [[WPP Media (GroupM)]]
 - [[Ogilvy]]
 
-
 |**Pillar**|**Global Powerhouse**|**Includes/Merged Brands**|
 |---|---|---|
 |**Creative**|**Ogilvy**|Now incorporates **Grey** (merged 2025).|
