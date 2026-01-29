@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:Companies  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -39,6 +39,6 @@
   "repelStrength": 12.3324652777778,
   "linkStrength": 0.691015625,
   "linkDistance": 168,
-  "scale": 0.33573154289173224,
-  "close": true
+  "scale": 0.46166944012843075,
+  "close": false
 }

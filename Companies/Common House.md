@@ -20,4 +20,4 @@ Founded in 2025
 - Seeding
 - AI Ads
 # Logo
-![[logo-2 1.png | Main Logo]]
+![[logo-2.png]]
